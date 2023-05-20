@@ -12,7 +12,7 @@
 - Personal email: wafiksleim@gmail.com
 - Phone: +201030469338
 
-<p> <a href="https://www.facebook.com/abdullahmanss" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://www.linkedin.com/in/abdullah-mansour-346516159" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a><p>
+<p> <a href="https://www.facebook.com/wafik.Ahmed.sleim" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://www.linkedin.com/in/wafik-sleim/" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a><p>
 
 <hr>
 
