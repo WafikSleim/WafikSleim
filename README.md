@@ -31,9 +31,9 @@
 
 <h3>Smart Services</h3>
 <p><strong>Client: </strong> (Smart Services) application is an application that provides some services such as delivery service, maintenance services, artwork and interior designs<br></p>
-<a href="https://github.com/WafikSleim/Smart-Services"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="google play"></a>
+<a href="https://github.com/WafikSleim/Smart-Services"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="google play"></a><br>
 <p><strong>Admin: </strong> The Smart Services Admin App is an application that manages a set of Smart Services applications such as order management, reservations, employee management, feedback management, customer service, and many other features.<br></p>
-<a href="https://github.com/WafikSleim/Smart-Services-AdminApp"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="google play"></a>
+<a href="https://github.com/WafikSleim/Smart-Services-AdminApp"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="google play"></a><br>
 <p><strong>Employee: </strong> The Smart Services Employee application is an application for managing requests, receiving them, and changing their status through lists of requests and reservations.<br></p>
 <a href="https://github.com/WafikSleim/Smart-Services-EmployeeApp"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="google play"></a>
 <hr>
